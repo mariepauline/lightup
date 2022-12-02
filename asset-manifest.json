@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lightup/static/css/main.fb16be1e.css",
-    "main.js": "/lightup/static/js/main.d7bfd6c8.js",
+    "main.css": "/lightup/static/css/main.a6b04703.css",
+    "main.js": "/lightup/static/js/main.c14accb5.js",
     "static/js/787.0da34bb6.chunk.js": "/lightup/static/js/787.0da34bb6.chunk.js",
     "static/media/dog_pattern.jpg": "/lightup/static/media/dog_pattern.8c1860ff5ad116b57c47.jpg",
     "index.html": "/lightup/index.html",
-    "main.fb16be1e.css.map": "/lightup/static/css/main.fb16be1e.css.map",
-    "main.d7bfd6c8.js.map": "/lightup/static/js/main.d7bfd6c8.js.map",
+    "main.a6b04703.css.map": "/lightup/static/css/main.a6b04703.css.map",
+    "main.c14accb5.js.map": "/lightup/static/js/main.c14accb5.js.map",
     "787.0da34bb6.chunk.js.map": "/lightup/static/js/787.0da34bb6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb16be1e.css",
-    "static/js/main.d7bfd6c8.js"
+    "static/css/main.a6b04703.css",
+    "static/js/main.c14accb5.js"
   ]
 }
