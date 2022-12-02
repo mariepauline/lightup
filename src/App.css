@@ -6,16 +6,24 @@ body {
 
 .App {
   text-align: center;
+  width: 100%;
 }
 
 .App-header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: darkblue;
   background-color: rgba(255, 255, 255, 0.5);
+}
+
+.dogs {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  gap: .5em;
+}
+
+.dogs img {
+  max-height: vh;
 }
 
 img {
@@ -24,7 +32,7 @@ img {
 
 @media (min-width: 30em) and (orientation: landscape) {
   img {
-    height: 90vh;
+    height: 75vh;
     width: auto;
   }
 }
